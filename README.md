@@ -1,6 +1,6 @@
-# react-native-section-alphabet-list
+# react-native-flatlist-alphabet
 
-A simple React Native component that takes an array of data and renders a SectionList with alphabetically sorted data.
+A simple React Native component that takes an array of data and renders a flatlist with alphabetically sorted data
 
 ![Alt text](https://media.giphy.com/media/SACshMzMIP2NvP8rvY/giphy.gif)
 
@@ -34,13 +34,13 @@ For _react-native-section-alphabet-list_, the data does not need to be pre-forma
 Using npm:
 
 ```bash
-npm install react-native-section-alphabet-list
+npm install react-native-flatlist-alphabet
 ```
 
 or with yarn:
 
 ```bash
-yard add react-native-section-alphabet-list
+yard add react-native-flatlist-alphabet
 ```
 
 ## Usage
@@ -48,7 +48,7 @@ yard add react-native-section-alphabet-list
 ### Import the module
 
 ```javascript
-import AlphabetList from "react-native-section-alphabet-list";
+import AlphabetList from "react-native-flatlist-alphabet";
 ```
 
 ### Use the component
