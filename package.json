@@ -48,7 +48,7 @@
   "readmeFilename": "README.md",
   "devDependencies": {
     "@types/jest": "^25.2.1",
-    "@types/react": "^16.9.32",
+    "@types/react": "^17.0.12",
     "@types/react-native": "^0.62.2",
     "@types/react-test-renderer": "^16.9.2",
     "jest": "^25.3.0",
